@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanielCS&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanielCS&theme=dracula&hide_border=true" alt="HanielCS" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCS&layout=compact&theme=dracula"/>
 </div>
