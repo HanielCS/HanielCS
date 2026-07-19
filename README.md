@@ -92,15 +92,6 @@ Atualmente estudo **Engenharia da Computação** e desenvolvo projetos envolvend
 
 </div>
 
----
-
-# 🏆 GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HanielCS&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
