@@ -86,15 +86,6 @@ Atualmente estudo **Engenharia da Computação** e desenvolvo projetos envolvend
 
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HanielCS&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-
----
-
 # 🚀 Projetos em Destaque
 
 | Projeto | Descrição |
